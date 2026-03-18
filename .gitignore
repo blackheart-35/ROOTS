@@ -1,6 +1,5 @@
 # Databases
-users.db
-*.sqlite3
+
 
 # Python artifacts
 __pycache__/
